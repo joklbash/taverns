@@ -1,0 +1,39 @@
+﻿Chairs:
+
+	BiblioCraft	- (Wood) Seat + (Wood) Back
+	MrCrayfish	- Wooden Chair
+	Jammy	- Arm Chair
+	
+Tables:
+
+	BiblioCraft	- (Wood) Table
+	MrCrayfish	- Wooden Table
+	Jammy	- Table
+	
+Sofa:
+
+	MrCrayfish	- Couch
+	Jammy	- Sofa (4 parts)
+
+Light - Wall-mounted:
+
+	BiblioCraft	- Golden Lantern
+	Jammy	- Outdoor Lamp
+	
+Light - Table
+
+	BiblioCraft	- Fancy Lamp
+	MrCrayfish	- Lamp
+	Jammy	- Table Lamp
+	
+Light - Roof-mounted:
+
+	BiblioCraft	- Golden Lantern
+	MrCrayfish	- Ceiling Light
+	Jammy	- Light
+	
+Curtains/Blinds:
+
+	MrCrayfish - Curtains
+	Jammy	- Blinds
+	
